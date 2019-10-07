@@ -1,5 +1,7 @@
 theme: jekyll-theme-hacker
 title: Robin Donnay
 description: Mon Portfolio
+# github:
+#   is_project_page: false
 github:
-  is_project_page: false
+  repository_url: https://github.com/Aros69
