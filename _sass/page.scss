@@ -361,9 +361,9 @@ $button-size: 1.5rem;
   display: block;
   margin-bottom: 5px;
   @include font-rem(14);
-  color: $black;
+  color: $sociallink-color;
   &:visited {
-    color: $black;
+    color: $sociallink-color;
   }
   &:hover {
     @include scale(1.1);
