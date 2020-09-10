@@ -60,7 +60,7 @@ $linkcolorhover 	   : darken($linkcolor, 10);
 $linkcolorvisited    : lighten($linkcolorhover, 20);
 $linkcolorfocus 	   : darken($linkcolorvisited, 10);
 $sociallinkcolor     : #525252;
-$sociallink-color    : $socialinkcolor;
+$sociallink-color    : $sociallinkcolor;
 
 /*
    Breakpoints
