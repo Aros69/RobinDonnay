@@ -5,7 +5,7 @@ title: Hobbies
 
 # My hobbies
 
-## Videogames
+## Video games
 
 ## Books
 
@@ -34,4 +34,12 @@ Top chapter in my point of view :
 
 ## Sports
 
+### Foosball
+
+### Running
+
 ## Cooking
+
+### Canelé
+
+### Beer
