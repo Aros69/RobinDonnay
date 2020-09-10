@@ -1,6 +1,12 @@
-# Site en construction 
+---
+layout: page
+excerpt: "About Me..."
+---
 
-En attendant, vous pouvez toujours trouver [Mon CV](https://aros69.github.io/RobinDonnay/data/CV_Donnay_Robin.pdf) ici. 
+I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
 
-[hobbies](hobbies.html)  
-[projects](projects.html)
+## Current Interests and Projects:
+
+- Website Design
+- [GitHub Pages](http://laderast.github.io)
+- Academia
