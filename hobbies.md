@@ -53,14 +53,12 @@ Top chapter in my point of view :
 I love stout and black beer but smoked beer are the best.  
 I'm an amateur brewer who craft beer on his free-time.  
 My first beer made with the [Brasserie Stéphanoise](https://www.labrasseriestephanoise.com/)  :  
-<img src="images/Cooking/FirstBeer.jpg" alt="First Beer" height=100 text-align="center"/>  
+<img src="/RobinDonnay/images/Cooking/FirstBeer.jpg" alt="First Beer" height=100 text-align="center"/>  
 Here is my lockdown beer (amber beer) :  
-<img src="images/Cooking/LockdownBeer1.jpg" alt="Lockdown Beer 1" height=100 text-align="center"/>
-<img src="images/Cooking/LockdownBeer2.jpg" alt="Lockdown Beer 2" height=100 text-align="center"/>
+<img src="/RobinDonnay/images/Cooking/LockdownBeer1.jpg" alt="Lockdown Beer 1" height=100 text-align="center"/>
+<img src="/RobinDonnay/images/Cooking/LockdownBeer2.jpg" alt="Lockdown Beer 2" height=100 text-align="center"/>
 
 ### Other dishes
-
-Anoter test : ![Lockdown Beer 2](images/Cooking/LockdownBeer2.jpg)
 
 Pancakes   
 Cinnamon roll
