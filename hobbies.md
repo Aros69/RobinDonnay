@@ -60,6 +60,8 @@ Here is my lockdown beer (amber beer) :
 
 ### Other dishes
 
-Pancakes 
+![Lockdown Beer 2](images/Cooking/LockdownBeer2.jpg)
+
+Pancakes   
 Cinnamon roll
   
