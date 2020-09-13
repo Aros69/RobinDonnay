@@ -38,12 +38,13 @@ Top chapter in my point of view :
 - 87
 - 96
 
+<!---
 ## Sports
 
 ### Foosball
 
 ### Running
-
+--->
 ## Cooking
 
 ### Canelé
@@ -56,10 +57,4 @@ My first beer made with the [Brasserie Stéphanoise](https://www.labrasseriestep
 <img src="/RobinDonnay/images/Cooking/FirstBeer.jpg" alt="First Beer" width="200" />  
 Here is my lockdown beer (amber beer) :  
 <img src="/RobinDonnay/images/Cooking/LockdownBeer1.jpg" alt="Lockdown Beer 1" width="500" />
-<img src="/RobinDonnay/images/Cooking/LockdownBeer2.jpg" alt="Lockdown Beer 2" height="120" />
-
-### Other dishes
-
-Pancakes   
-Cinnamon roll
-  
+<img src="/RobinDonnay/images/Cooking/LockdownBeer2.jpg" alt="Lockdown Beer 2" width="120" />
