@@ -1,7 +1,6 @@
----
-layout: presentation-post-index
+--- 
+layout: post-index
 title: Projects
-excerpt: "Recent Projects"
 ---
 
-# Projects I've worked one
+# Projects I've worked on
