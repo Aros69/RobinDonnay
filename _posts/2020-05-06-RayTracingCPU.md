@@ -2,7 +2,6 @@
 layout: post
 title: Ray Tracing CPU
 excerpt: "A CPU renderer using raytracing"
-modified: 05/06/2020, 20:43:00
 tags: [C++, Rendering, RayTracing]
 category: blog
 ---
