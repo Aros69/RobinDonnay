@@ -8,7 +8,6 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Robin Donnay
   avatar: bio-photo.jpg
-  # bio: "Fan of video game and computer science, I'd love to create my own games to share my passion with gamers all around the world."
   bio: "I'm a 22 years old computer scientist from Lyon in France. I'm specialized in computer graphics, especially real time technology like video game and VR."
   email: donnay.robin@gmail.com
   # Do not include the @ symbol in your Twitter username
