@@ -8,7 +8,7 @@ title: My Hobbies
 - My favorite game series is Kingdom hearts
 - I also like Borderlands and Fallout
 - When I'm stressed, I listen my Fallout 4 Diamond City Radio [playlist on spotify](https://open.spotify.com/playlist/6fJARQytW295vVoUSUjk8I?si=zssq5g6TQySo2HoGUgalGQ). I don't know why but this help me
-- Lara Croft is the most important women protagonist in video game. She describes the evolution of the representation of women in the video game industry (from "nice to watch" to "poverfull and independant"). She became the best.
+- Lara Croft my favorite character in video game history. She describes the evolution of the representation of women in the video game industry (from "nice to watch" to "powerfull and independant").
 
 ## Books
 
