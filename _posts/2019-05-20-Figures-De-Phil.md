@@ -9,7 +9,7 @@ category: blog
 <img src="/RobinDonnay/images/FiguresDePhil/FigureDePhilGame.jpg" alt="Level" width="1000" />
 
 The figures of Phil is a 2D party game where the goal is to study figures of styles. Levels are generated procedurally using a database of figures of styles.  
-This project as been done in two weeks during a university class about educationnal software and serious game.   
+This project as been done during a university class about educationnal software and serious game.   
 
 The source code and more informations (in French) are available [here](https://github.com/Aros69/FiguresDePhil).   
 
