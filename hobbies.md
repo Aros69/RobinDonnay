@@ -22,28 +22,51 @@ title: My Hobbies
 
 ### 97 Things Every Programmer Should Know
 
-It's a must read for every programmer who care about the quality of his job. Chapter are perfectly sized to be read in public transport.
-<!---
-Read again chapter before 29 to add some to selection
---->
-Some chapter are more important in my point of view. Here is my tier list of the must read chapters :
-- 29. Don't Rely on "Magic Happens Here" (even for none developer)
-- 30. Don't Repeat Yourself 
-- 33. Floating-point Numbers Aren't Real
-- 40. Install Me
-- 50. Learn to Estimate (even for none developer)
-- 52. Let Your Project Speak for Itself (for fun)
-- 54. The Longevity of Interim Solutions
-- 62. Only the Code Tells the Truth
-- 69. Put the Mouse Down and Step Away from the Keyboard
-- 71. Read the Humanities
-- 72. Reinvet the Wheel Often
-- 73. Resist the Temptation of the Singleton Pattern
-- 76. The Single Responsibility Principle
-- 77. Start from Yes
-- 78. Step Back and Automate, Automate, Automate
-- 87. Ubuntu Coding for Your Friends
-- 96. You Gotta Care About the Code
+It's a must read for every programmer who care about the quality of his job. Chapter are perfectly sized to be read in public transport so there is no excuses.
+
+Some chapter are more important in my point of view. Here is my tier list of chapters I liked (yes there are many chapters) :
+- S Tier (Usefull even for none developer)
+    - Chapter 3. Ask, "What Would the User Do?" (You Are Not the User)
+    - Chapter 18. Continuous Learning
+    - Chapter 22. Do Lots of Deliberate Practice
+    - Chapter 29. Don't Rely on "Magic Happens Here"
+    - Chapter 37. Hard Work Does Not Pay Off
+    - Chapter 50. Learn to Estimate
+    - Chapter 67. The Professional Programmer
+    - Chapter 69. Put the Mouse Down and Step Away from the Keyboard
+    - Chapter 77. Start from Yes
+    - Chapter 87. Ubuntu Coding for Your Friends
+    - Chapter 97. Your Customers Do Not Mean What They Say
+- A Tier (Philosphy to become a better developer)
+    - Chapter 24. Don't Be Afraid to Break Things
+    - Chapter 58. A Message to the Future
+    - Chapter 70. Read Code
+    - Chapter 72. Reinvet the Wheel Often
+    - Chapter 83. Testing Is the Engineering Rigor of Software Development
+    - Chapter 86. Two Wrongs Can Make a Right (and Are Difficult to Fix)
+    - Chapter 93. Write Code As If You Had to Support It for the Rest of Your Life
+    - Chapter 96. You Gotta Care About the Code
+- B Tier (Good practices)
+    - Chapter 5. Beauty Is in Simplicity
+    - Chapter 15. Coding With Reason
+    - Chapter 20. Deploy Early and Often
+    - Chapter 30. Don't Repeat Yourself 
+    - Chapter 42. Keep the Build Clean
+    - Chapter 65. Prefer Domain-Specific Types to Primitive Types
+    - Chapter 73. Resist the Temptation of the Singleton Pattern
+    - Chapter 76. The Single Responsibility Principle
+    - Chapter 90. Verbose Logging Will Disturb Your Sleep
+- C Tier (Cool to read for me)
+    - Chapter 33. Floating-point Numbers Aren't Real
+    - Chapter 40. Install Me
+    - Chapter 47. Know Your Next Commit
+    - Chapter 51. Learn to Say, "Hello, World"
+    - Chapter 52. Let Your Project Speak for Itself
+    - Chapter 54. The Longevity of Interim Solutions
+    - Chapter 62. Only the Code Tells the Truth
+    - Chapter 71. Read the Humanities
+    - Chapter 78. Step Back and Automate, Automate, Automate
+
 
 <!---
 ## Sports
