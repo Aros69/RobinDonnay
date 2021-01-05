@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Full Metal Batle Gear
+title: Full Metal Battle Gear
 excerpt: "A 2d strategy fighthing game"
 tags: [C#, 2D, Unity]
 category: blog
