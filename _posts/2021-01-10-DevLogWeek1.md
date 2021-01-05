@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Devlog
-excerpt: "2021 Week 1"
+title: "2021 Devlog Week 1"
 tags: [Devlog, Shader, VR, Projects]
 category: presentation
 ---
@@ -17,4 +16,4 @@ I don't know where all those things will bring me but "One is better than Zero".
 It doesn"t matter if I can't finnish a project, I will win experience with it.   
 
 Now let's talk about those projects a little bit.  
-You can find my shader project on this [page]() and on [github](https://github.com/Aros69/ShadersEverywhere).  
+You can find my shader project on this [page](https://aros69.github.io/RobinDonnay/blog/ShadersEverywhere/) and on [github](https://github.com/Aros69/ShadersEverywhere).  
