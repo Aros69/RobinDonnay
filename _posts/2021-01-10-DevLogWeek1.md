@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2021 Devlog Week 1"
+title: "Week 1 2021 Devlog"
 excerpt: "The begining of a great adventure"
 tags: [Devlog, Shader, VR, Projects]
 category: presentation

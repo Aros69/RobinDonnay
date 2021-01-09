@@ -1,5 +1,5 @@
 --- 
 layout: presentation-post-index
-excerpt: "Projects I've worked on"
+excerpt: "Devlogs of a solo game dev"
 title: Devlogs
 ---
