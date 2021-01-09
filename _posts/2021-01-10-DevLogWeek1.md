@@ -62,10 +62,10 @@ vec3 BlueCircle(vec2 centerNormalized, vec2 coordNormalized, float radius){
 }
 
 vec3 TrichromaticCircle(vec2 coordNormalized){
-    float radius = 0.15;
-    return RedCircle(vec2(0.5, 0.55), coordNormalized, radius) +
-        GreenCircle(vec2(0.45, 0.45), coordNormalized, radius) +
-        BlueCircle(vec2(0.55, 0.45), coordNormalized, radius);
+    float radius = 0.3;
+    return RedCircle(vec2(0.5, 0.65), coordNormalized, radius) +
+        GreenCircle(vec2(0.35, 0.35), coordNormalized, radius) +
+        BlueCircle(vec2(0.65, 0.35), coordNormalized, radius);
 }
 
 void main() {
@@ -82,6 +82,7 @@ void main() {
 
     gl_FragColor = vec4(color,1.0);
 }
+
 " width="250" height="250"></canvas>
 
 In fact, my biggest struggle this week was scaling and starting the game project.  
@@ -90,8 +91,6 @@ I've scale down at the maximum and I hope I'll have the smallest and dirtiest PO
 I got too many ideas for that game, I can't focus.  
 Anyway, here's my two main inspiration for the game :
 - [This app](https://apps.apple.com/in/app/giant-punch/id1541849472) gave me the global idea of the game 
-- The music below is another inspiration... I don't know if I can and will polish the project to have the art style of it but that's another far far away goal  
-
-<img src="/RobinDonnay/images/Devlog/GiantPunch.png" alt="App Inspiration" width="200" /> 
-
+<img src="/RobinDonnay/images/Devlog/GiantPunch.png" alt="App Inspiration" width="200" />
+- The music below is another inspiration... I don't know if I can and will polish the project to have the art style of it but that's another far far away goal   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fBGSJ3sbivI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
