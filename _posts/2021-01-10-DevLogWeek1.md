@@ -82,7 +82,7 @@ void main() {
 
     gl_FragColor = vec4(color,1.0);
 }
-" width="500" height="500"></canvas>
+" width="250" height="250"></canvas>
 
 In fact, my biggest struggle this week was scaling and starting the game project.  
 I've made a trello to keep my tasks in mind but I can't start anything.  
@@ -95,5 +95,3 @@ Anyway, here's my two main inspiration for the game :
 <img src="/RobinDonnay/images/Devlog/GiantPunch.png" alt="App Inspiration" width="200" /> 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fBGSJ3sbivI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/MtXSWj?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
