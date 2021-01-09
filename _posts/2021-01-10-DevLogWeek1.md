@@ -22,7 +22,7 @@ This week I've done one simple shader and take ideas of other one I will do late
 Heres my week 1 shader, computed trichromatic circles, nothing great but it's honest work.
 
 <script type="text/javascript" src="https://rawgit.com/patriciogonzalezvivo/glslCanvas/master/dist/GlslCanvas.js"></script>
-<canvas class="glslCanvas" data-fragment-url="https://github.com/Aros69/ShadersEverywhere/blob/main/OriginalIdeas/TrichromaticCircle.frag" width="500" height="500"></canvas>
+<canvas class="glslCanvas" data-fragment-url="/RobinDonnay/_shaders/TrichromaticCircle.frag" width="500" height="500"></canvas>
 
 In fact, my biggest struggle this week was scaling and starting the game project.  
 I've made a trello to keep my tasks in mind but I can't start anything.  
