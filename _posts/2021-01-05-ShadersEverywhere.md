@@ -9,6 +9,8 @@ category: blog
 More described post will arrive soon.  
 Goal : Have fun and greatly improve shader knowledge.  
 
+You can find my shader project on [github](https://github.com/Aros69/ShadersEverywhere).  
+
 Week 1 shader :  
 <script type="text/javascript" src="https://rawgit.com/patriciogonzalezvivo/glslCanvas/master/dist/GlslCanvas.js"></script>
 <canvas class="glslCanvas" data-fragment="// Author: Robin Donnay
