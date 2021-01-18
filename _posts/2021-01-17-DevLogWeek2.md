@@ -26,7 +26,8 @@ The physics is fucked up (gravity is to high and my hands aren't powerfull).
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VYBl_G_wa-M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Besides the game, I've made a quick shader that will be used in the game one day I think.  
-It's a chess floor customizable (colors and size). [You can have fun here](https://www.shadertoy.com/view/3tycDD)
+It's a chess floor customizable (colors and size).  
+
 <script type="text/javascript" src="https://rawgit.com/patriciogonzalezvivo/glslCanvas/master/dist/GlslCanvas.js"></script>
 <canvas class="glslCanvas" data-fragment="// Author: Robin Donnay
 // Title: Chess Floor
@@ -58,3 +59,5 @@ void main() {
     gl_FragColor = vec4(color,1.0);
 }
 " width="250" height="250"></canvas>
+  
+[You can have fun here](https://www.shadertoy.com/view/3tycDD) and modify the two colors and the number of tiles on this web site.
