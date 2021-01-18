@@ -2,9 +2,16 @@
 layout: post
 title: "Week 1 2021 Devlog"
 excerpt: "The begining of a great adventure"
-tags: [Devlog, Shader, VR, Projects]
+tags: [Devlog, Shader, VR, Projects, GLSL, Unity]
 category: presentation
 ---
+
+<!-- Shaders canvas
+<script type="text/javascript" src="https://rawgit.com/patriciogonzalezvivo/glslCanvas/master/dist/GlslCanvas.js"></script>
+<canvas class="glslCanvas" data-fragment="" width="250" height="250"></canvas>
+     Youtube Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fBGSJ3sbivI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-->
 
 One of my resolution this year is to make more personnal dev projects. To complete this goal, I will do weekly devlog to keep track of my work.  
 It's time to do some personal projects to improve myself in my passion, computer graphics and video games.  
