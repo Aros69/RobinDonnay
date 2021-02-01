@@ -17,12 +17,12 @@ As mention in the last devlog, I dedicated this week on research and learning.
 I work on two things. First, I start to search the best IK method for realtime in VR.  
 As far as I searched, FABRIK is still the best method as it's fast, customizable (with constraints) and easy to understand.  
 I read that VR IK from Final IK unitypackage is also based on FABRIK so I guess it's the best choice at the moment.  
-I start reading those two research papers : [First research paper about FABRIK](/RobinDonnay/pdf/FABRIK.pdf) and [Extension of FABRIK to add constraints](/RobinDonnay/pdf/Extending_FABRIK_with_Model_Cοnstraints.pdf).  
-I want to make things nicely so I will take my time to understand those papers as this part will highly increase the immersion in the game.
+I start reading those two research papers : [FABRIK](/RobinDonnay/pdf/FABRIK.pdf) and [Extending FABRIK with Model Cοnstraints](/RobinDonnay/pdf/Extending_FABRIK_with_Model_Cοnstraints.pdf).  
+I want to make things nicely so I will take enough time to understand those papers as this part will highly increase the immersion in the game.
   
 
-As this take some times and I wanted to have something to show this week I started another of my goals, do rendering and shaders in Unity.  
-Thanks to [Cat Like Coding Course](https://catlikecoding.com/unity/tutorials/rendering/), I started coding quickly and already adapted one my last shader.  
+As this take some times and I wanted to have something to show this week. I started another of my goals, do rendering and shaders in Unity.  
+Thanks to [Cat Like Coding Course](https://catlikecoding.com/unity/tutorials/rendering/), I started coding quickly and already adapted one of my last shader.  
 
 <img src="/RobinDonnay/images/Devlog/ChessFloorUnity.gif" alt="Chess Floor Shader" width="400" />
   
