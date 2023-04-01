@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Personal Website of Robin Donnay
+title: My Website
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -8,10 +8,10 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Robin Donnay
   avatar: bio-photo.jpg
-  bio: "I'm a 22 years old computer scientist from Lyon in France. I'm specialized in computer graphics, especially real time technology like video game and VR."
+  bio: "I'm a 24 years old computer scientist from Lyon in France. I'm specialized in computer graphics, especially real time technology like video game and VR."
   email: donnay.robin@gmail.com
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
+  twitter: DonnayRobin
   linkedin: robin-donnay
   github: aros69
   orcid: # ID Number (ex. 0000-0000-0000-0000)
