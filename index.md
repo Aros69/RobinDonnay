@@ -9,5 +9,3 @@ I'm a 24 years old computer scientist from Lyon in France. I studied computer sc
 
 This is my french [resume](/RobinDonnay/pdf/CV_Robin_Donnay_FR.pdf).  
 This is my english [resume](/RobinDonnay/pdf/CV_Robin_Donnay_EN.pdf).
-
-This is a [html link test](/RobinDonnay/pages/privacy.htm)
